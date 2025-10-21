@@ -1,5 +1,7 @@
 # Technical Challenge — Software Engineer
 
+📋 **[Position Profile](POSITION.md)** - View detailed requirements and responsibilities
+
 **Focus:** quality of process and decisions (requirements understanding, architecture, implementation, reliability)
 
 **Suggested timeline:** 7 days
