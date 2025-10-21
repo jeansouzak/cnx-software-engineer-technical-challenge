@@ -22,6 +22,7 @@ Build a service that reads a **CSV mailing list** and triggers **e-mail sends** 
 * Swagger UI: https://email-test-api-475816.ue.r.appspot.com/docs
 * ReDoc: https://email-test-api-475816.ue.r.appspot.com/redoc
 * OpenAPI Specification: `openapi.json` (included in repository for offline development/mocking)
+* Use `mailing_list.csv` as a dummy data
 
 ## Notes
 
