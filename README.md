@@ -26,9 +26,8 @@ Build a service that reads a **CSV mailing list** and triggers **e-mail sends** 
 * The mailing may contain **invalid e-mail addresses**.
 * The API **only accepts authenticated requests via token** (credentials will be provided).
 * Token will expires in 30 minutes (need rotation).
-* **No mock** will be used: you will integrate with the **real API**.
 * **Details matter**: not everything needs to be fully implemented, but your **decisions and trade-offs will be evaluated and discussed** during review.
-* **LLMs may be used** to assist, **as long as you understand and stay in control** of the code and design you submit.
+* **LLMs/AI could be used** to assist, **as long as you understand and stay in control** of the code and design you submit.
 
 ## Expected scope
 
